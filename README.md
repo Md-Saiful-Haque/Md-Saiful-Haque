@@ -2,6 +2,20 @@
 <h1 align="center">Hi 👋, I'm Md Saiful Haque</h1>
 <h3 align="center">A passionate MERN Stack developer from Bangladesh.</h3>
 
+---
+
+## 👩‍💻 About Me
+I am a passionate web developer who enjoys building responsive and user-friendly web applications.  
+I love learning new technologies and improving my problem-solving skills.  
+Currently, I am focused on enhancing my frontend development expertise.
+
+---
+
+## 🚀 Current Activities
+- 🌱 I am exploring **Next.js**
+- 🏗️ I’m working on a **Tourism Website**
+- 📚 Learning modern UI/UX practices
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/saiful haque" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="saiful haque" height="30" width="40" /></a>
