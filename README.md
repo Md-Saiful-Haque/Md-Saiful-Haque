@@ -1,4 +1,4 @@
-![Banner]([https://your-banner-image-link](https://i.ibb.co.com/tPpwTsN0/github-banner2.png))
+![Banner](https://github.com/Md-Saiful-Haque/Md-Saiful-Haque/blob/febbd88f972d861df8afafd096cd981df679d6d8/github%20banner2.png)
 <h1 align="center">Hi 👋, I'm Md Saiful Haque</h1>
 <h3 align="center">A passionate MERN Stack developer from Bangladesh.</h3>
 
