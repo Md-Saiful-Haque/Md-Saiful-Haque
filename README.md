@@ -48,9 +48,15 @@ Currently, I am focused on enhancing my frontend development expertise.
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Md-Saiful-Haque&show_icons=true&count_private=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Md-Saiful-Haque&show_icons=true&theme=tokyonight" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Md-Saiful-Haque&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Md-Saiful-Haque&layout=compact&theme=tokyonight" />
+</p>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Md-Saiful-Haque)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Md-Saiful-Haque&theme=tokyonight" />
+</p>
 
